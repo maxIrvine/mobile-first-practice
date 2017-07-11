@@ -1,14 +1,14 @@
 .contact-area {
     display: flex;
     justify-content: center;
-    padding-top: 40px;
-    
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .contact-form {
     border: 5px solid rgb(99,100,102);
     padding-top: 10px;
-    padding-bottom: 220px;
+    padding-bottom: 500px;
 }
 
 .element {

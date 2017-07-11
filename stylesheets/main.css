@@ -1,0 +1,28 @@
+.contact-area {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    
+}
+
+.contact-form {
+    border: 5px solid rgb(99,100,102);
+    padding-top: 10px;
+    padding-bottom: 220px;
+}
+
+.element {
+    margin: 0px;
+    padding-bottom: 30px;
+
+}
+
+.center-item {
+    display: flex;
+    width: 320px;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+}
